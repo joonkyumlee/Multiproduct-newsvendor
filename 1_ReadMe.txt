@@ -4,13 +4,11 @@ Matlab files
 
 Solution_Profit_Finder: this will read data and yield solutions, values (upper bounds for R1), and simulated profits. Methods R2 and ABS can be added to the code.
 
-Method_X: this will calculate solutions and values (upper bounds for R1) of method X.
-
 Profit_simulator: this will yield simulated profit for a given solution
 
 Prob=Choice_Prob_Calculator_Nested_logit: this will calculate the choice probability of the nested logit model for given input parameters.
 
-
+Method_X: this will calculate solutions and values (upper bounds for R1) of method X.
 
 %%%%%%%%%%%
 Column heading of the Instance_and_Result_Nested_logit.nX.txt file
